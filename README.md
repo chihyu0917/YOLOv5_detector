@@ -2,6 +2,7 @@
 
 A detector for any kinds of videos or images. Using [YOLOv5 models](https://github.com/ultralytics/yolov5) and PyTorch for object detection.
 
+<img width="80%" src="https://raw.githubusercontent.com/chihyu0917/YOLOv5_detector/main/runs/detect/exp8/image0.jpg">
 ## Table of Contents
 
 - [Installation](#installation)
