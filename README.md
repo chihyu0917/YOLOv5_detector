@@ -24,4 +24,7 @@ If running on Localhost, please ensure that the [PyTorch](https://pytorch.org/ge
 [Other output images](https://github.com/chihyu0917/YOLOv5_detector/tree/main/runs/detect)
 
 ## Usage
+Select a video or an image, and modify the original path to your path. Then, the output image will be in ```
+runs/detect```
+<img width="80%" src="https://raw.githubusercontent.com/chihyu0917/YOLOv5_detector/main/runs/detect/exp3/trump.jpg">
 
